@@ -34,5 +34,10 @@ namespace ForValidationPurpose.Controllers
                 return View();
             }
         }
+
+        public void test()
+        {
+
+        }
     }
 }

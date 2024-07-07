@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF8C908A-C1B0-4B20-B937-00E4A651790E}|ForValidationPurpose\\ForValidationPurpose.csproj|C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\forvalidationpurpose\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF8C908A-C1B0-4B20-B937-00E4A651790E}|ForValidationPurpose\\ForValidationPurpose.csproj|solutionrelative:forvalidationpurpose\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF8C908A-C1B0-4B20-B937-00E4A651790E}|ForValidationPurpose\\ForValidationPurpose.csproj|c:\\users\\bhola\\source\\repos\\repocheck\\bhola\\forvalidationpurpose\\forvalidationpurpose\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF8C908A-C1B0-4B20-B937-00E4A651790E}|ForValidationPurpose\\ForValidationPurpose.csproj|solutionrelative:forvalidationpurpose\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF8C908A-C1B0-4B20-B937-00E4A651790E}|ForValidationPurpose\\ForValidationPurpose.csproj|C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\forvalidationpurpose\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BF8C908A-C1B0-4B20-B937-00E4A651790E}|ForValidationPurpose\\ForValidationPurpose.csproj|solutionrelative:forvalidationpurpose\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8C908A-C1B0-4B20-B937-00E4A651790E}|ForValidationPurpose\\ForValidationPurpose.csproj|C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\forvalidationpurpose\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8C908A-C1B0-4B20-B937-00E4A651790E}|ForValidationPurpose\\ForValidationPurpose.csproj|solutionrelative:forvalidationpurpose\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8C908A-C1B0-4B20-B937-00E4A651790E}|ForValidationPurpose\\ForValidationPurpose.csproj|C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\forvalidationpurpose\\views\\shared\\_employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF8C908A-C1B0-4B20-B937-00E4A651790E}|ForValidationPurpose\\ForValidationPurpose.csproj|solutionrelative:forvalidationpurpose\\views\\shared\\_employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8C908A-C1B0-4B20-B937-00E4A651790E}|ForValidationPurpose\\ForValidationPurpose.csproj|C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\forvalidationpurpose\\views\\shared\\_fome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF8C908A-C1B0-4B20-B937-00E4A651790E}|ForValidationPurpose\\ForValidationPurpose.csproj|solutionrelative:forvalidationpurpose\\views\\shared\\_fome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8C908A-C1B0-4B20-B937-00E4A651790E}|ForValidationPurpose\\ForValidationPurpose.csproj|C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\forvalidationpurpose\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BF8C908A-C1B0-4B20-B937-00E4A651790E}|ForValidationPurpose\\ForValidationPurpose.csproj|solutionrelative:forvalidationpurpose\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8C908A-C1B0-4B20-B937-00E4A651790E}|ForValidationPurpose\\ForValidationPurpose.csproj|C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\forvalidationpurpose\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF8C908A-C1B0-4B20-B937-00E4A651790E}|ForValidationPurpose\\ForValidationPurpose.csproj|solutionrelative:forvalidationpurpose\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +46,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\ForValidationPurpose\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ForValidationPurpose\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\ForValidationPurpose\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ForValidationPurpose\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T05:50:51.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\ForValidationPurpose\\Web.config",
+              "RelativeDocumentMoniker": "ForValidationPurpose\\Web.config",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\ForValidationPurpose\\Web.config",
+              "RelativeToolTip": "ForValidationPurpose\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-26T05:49:59.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Fome.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\ForValidationPurpose\\Views\\Shared\\_Fome.cshtml",
+              "RelativeDocumentMoniker": "ForValidationPurpose\\Views\\Shared\\_Fome.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\ForValidationPurpose\\Views\\Shared\\_Fome.cshtml",
+              "RelativeToolTip": "ForValidationPurpose\\Views\\Shared\\_Fome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T07:32:21.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_EmployeeList.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\ForValidationPurpose\\Views\\Shared\\_EmployeeList.cshtml",
+              "RelativeDocumentMoniker": "ForValidationPurpose\\Views\\Shared\\_EmployeeList.cshtml",
+              "ToolTip": "C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\ForValidationPurpose\\Views\\Shared\\_EmployeeList.cshtml",
+              "RelativeToolTip": "ForValidationPurpose\\Views\\Shared\\_EmployeeList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T05:40:06.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\ForValidationPurpose\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "ForValidationPurpose\\Models\\Employee.cs",
               "ToolTip": "C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\ForValidationPurpose\\Models\\Employee.cs",
               "RelativeToolTip": "ForValidationPurpose\\Models\\Employee.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAkwDIAAAAQAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwDUAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T09:29:26.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\ForValidationPurpose\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "ForValidationPurpose\\Views\\Employee\\Create.cshtml",
               "ToolTip": "C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\ForValidationPurpose\\Views\\Employee\\Create.cshtml",
               "RelativeToolTip": "ForValidationPurpose\\Views\\Employee\\Create.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAEQAAABlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-24T09:22:29.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\ForValidationPurpose\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "ForValidationPurpose\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\bhola\\source\\repos\\Repocheck\\bhola\\ForValidationPurpose\\ForValidationPurpose\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "ForValidationPurpose\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T09:20:46.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T09:20:46.123Z"
             }
           ]
         }

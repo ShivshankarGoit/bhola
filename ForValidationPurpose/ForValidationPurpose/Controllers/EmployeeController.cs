@@ -35,9 +35,10 @@ namespace ForValidationPurpose.Controllers
             }
         }
 
-        public void test()
+        [ChildActionOnly]
+        public ActionResult RenderMenu()
         {
-
+            return PartialView("_EmployeeList");
         }
     }
 }
